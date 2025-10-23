@@ -31,7 +31,7 @@ This project automatically converts any video into a version with **captions** a
   
 ```bash
 pip install gradio pyscenedetect "pyscenedetect[opencv]" transformers torch gtts pydub requests
-git clone <your-repo-url>
+git clone <Tasneem14/Video-AI-Dubber-Subtitler>
 cd <project-folder>
 python main.py
 ```
@@ -40,6 +40,6 @@ python main.py
 
 You can see a demo of the project in the video below:
 
-[demo.mp4](blip_demo.mp4)
+[demo.mp4](blip_demo - Made with Clipchamp.mp4)
 
 
