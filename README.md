@@ -40,6 +40,6 @@ python main.py
 
 You can see a demo of the project in the video below:
 
-[demo.mp4](blip_demo - Made with Clipchamp.mp4)
+[demo.mp4](blip_demo.mp4)
 
 
